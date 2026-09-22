@@ -1,91 +1,136 @@
-# Hi 👋, I'm Ankitha Kanneboina
+<div align="center">
 
-### AI/ML & Full-Stack Developer | B.Tech CSE Student
+<img src="./banner.png" alt="Ankitha Kanneboina - AI/ML & Full-Stack Developer" width="100%"/>
 
-I build practical software applications using Artificial Intelligence, Machine Learning, and modern web technologies.
+<br>
 
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Interested in AI/ML, Full-Stack Development & Software Engineering
-- 🌱 Currently strengthening Data Structures & Algorithms
-- 🚀 Building real-world AI-powered applications
-- 📚 Always learning and improving
+### 👋 Hi, I'm Ankitha Kanneboina
+
+**AI/ML • Full-Stack Development • Computer Vision**
+
+Building practical AI-powered applications and web solutions that solve real-world problems.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ankithakanneboina-181717?style=for-the-badge\&logo=github)](https://github.com/ankithakanneboina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankitha%20Kanneboina-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ankitha-kanneboina-45a545324/)
+
+</div>
+
+---
+
+## 💫 About Me
+
+* 🎓 B.Tech Computer Science & Engineering student
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🌐 Building **Full-Stack Web Applications**
+* 👁️ Exploring **Computer Vision**
+* 🧠 Currently strengthening **Data Structures & Algorithms**
+* 🚀 Passionate about building practical, real-world projects
+* 📚 Always learning, experimenting and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### AI / ML & Computer Vision
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤟 Indian Sign Language to Regional Languages
-AI-powered accessibility platform for recognizing Indian Sign Language gestures and converting them into regional languages.
-
-**Technologies:** Python, MediaPipe, Machine Learning, Computer Vision
-
-### 🚢 Maritime Vessel Tracking & Port Analytics
-Full-stack platform for vessel tracking, port analytics, voyage monitoring, safety events, and operational dashboards.
-
-**Technologies:** React, Django REST Framework, PostgreSQL, Leaflet
-
-### 🌾 Smart Kisaan
-AI-assisted farming platform designed to provide farmers with practical agricultural guidance and intelligent assistance.
-
-**Technologies:** Python, Django, React, Machine Learning
-
-### 🛣️ Road Surface Condition Classification
-Computer vision application for identifying road conditions from images and camera input.
-
-**Technologies:** Python, Machine Learning, Computer Vision, React
-
-### 🔎 Lost & Found Portal
-Web platform for reporting and discovering lost items with image-based matching capabilities.
-
-**Technologies:** Python, Flask, React, MongoDB, PyTorch
+| Project                                           | Description                                                                                                 | Technologies                              |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🤟 **Indian Sign Language to Regional Languages** | AI-powered accessibility platform for recognizing ISL gestures and converting them into regional languages. | Python • MediaPipe • ML • Computer Vision |
+| 🚢 **Maritime Vessel Tracking & Port Analytics**  | Full-stack platform for vessel tracking, port analytics, voyage monitoring and safety dashboards.           | React • Django • PostgreSQL • Leaflet     |
+| 🌾 **Smart Kisaan**                               | AI-assisted farming platform providing practical agricultural guidance and intelligent assistance.          | Python • Django • React • ML              |
+| 🛣️ **Road Surface Condition Classification**     | Computer vision application for identifying road conditions from images and camera input.                   | Python • ML • Computer Vision • React     |
+| 🔎 **Lost & Found Portal**                        | Web platform for reporting and discovering lost items with image-based matching capabilities.               | Python • Flask • MongoDB • PyTorch        |
 
 ---
 
 ## 📌 Currently Working On
 
-- 🤖 AI & Machine Learning applications
-- 🤟 Indian Sign Language recognition
-- 🧠 Data Structures & Algorithms
-- 🌐 Full-Stack Web Development
-- 🚀 Building production-oriented projects
+* 🤟 Indian Sign Language recognition
+* 🤖 AI & Machine Learning applications
+* 🧠 Data Structures & Algorithms
+* 🌐 Full-Stack Web Development
+* 🚀 Production-oriented software projects
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankithakanneboina&show_icons=true&theme=default&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankithakanneboina&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithakanneboina&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ankithakanneboina&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+* 💻 **380+ LeetCode Problems Solved**
+* 🚢 **Infosys Springboard Virtual Internship**
+* 🤖 AI/ML & Full-Stack Project Development
+* 🎯 Preparing for Software Engineering Opportunities
+* 📚 Continuous Learning & Improvement
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Ankitha Kanneboina](https://www.linkedin.com/in/ankitha-kanneboina-45a545324/)
-- 💻 GitHub: [ankithakanneboina](https://github.com/ankithakanneboina)
+<div align="center">
+
+📧 **[ankithakanneboina@gmail.com](mailto:ankithakanneboina@gmail.com)**
+
+💼 [LinkedIn](https://www.linkedin.com/in/ankitha-kanneboina-45a545324/)
+
+💻 [GitHub](https://github.com/ankithakanneboina)
+
+</div>
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+<div align="center">
+
+### 💜 Build. Learn. Improve. Repeat.
+
+**Let's build something amazing together! 🚀**
+
+</div>
